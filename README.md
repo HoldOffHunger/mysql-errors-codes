@@ -4,7 +4,7 @@ This project intends to provide fuller error messaging for MySQL error messages.
 
 ## Sample Use
 
-### Normal MySQL/PHP Error Messaging
+### OLD Error Messaging
 
 Normally, in PHP and MySQL, the only error information you can get is...
 
@@ -15,7 +15,7 @@ This will only give output like...
 
 	13236 : Message: Newly created data directory SOMEDIRECTORY is unusable. You can safely remove it.
 
-### New and Improved MySQL/PHP Error Messaging
+### NEW Error Messaging
 
 But with MySQLErrorCodes...
 
